@@ -10,3 +10,5 @@ function getAge(){
 }
 
 exports.getAge = getAge;
+
+console.log("user.js is loaded");
