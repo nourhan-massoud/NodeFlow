@@ -28,3 +28,5 @@ const folderPath = '/var/www/NodeFlow';
 var user = require("./user");
 console.log(user.getUserName())
 console.log(user.getAge())
+
+console.log("hi")
