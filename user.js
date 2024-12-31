@@ -12,11 +12,5 @@ function getAge(){
 exports.getAge = getAge;
 
 console.log("user.js is loaded");
-console.log("user.js is loaded");
-console.log("user.js is loaded");
-console.log("user.js is loaded");
-console.log("user.js is loaded");
-console.log("user.js is loaded");
-console.log("user.js is loaded");
-console.log("user.js is loaded");
-console.log("user.js is loaded");
+console.log("test Squash 1");
+console.log("test Squash 2");
