@@ -14,3 +14,5 @@ exports.getAge = getAge;
 console.log("user.js is loaded");
 console.log("test Squash 1");
 console.log("test Squash 2");
+
+console.log("edit from develop 1");
